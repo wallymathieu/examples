@@ -1,4 +1,4 @@
-FROM lfex/yaws-dev
+FROM wallymathieu/yaws-dev
 
 COPY . /yaws-web-app-example
 WORKDIR /yaws-web-app-example

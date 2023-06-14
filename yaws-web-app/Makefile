@@ -1,5 +1,5 @@
-IMG_TAG = lfex/yaws-web-app-example
-DEV_IMG_TAG = lfex/yaws-dev
+IMG_TAG = wallymathieu/yaws-web-app-example
+DEV_IMG_TAG = wallymathieu/yaws-dev
 DEV_BUILD_DIR = priv/docker/dev
 
 default: image
